@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/nkishore2210/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707090/31ef4511-92ad-41c4-99d2-60f35827d93e)
+
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
