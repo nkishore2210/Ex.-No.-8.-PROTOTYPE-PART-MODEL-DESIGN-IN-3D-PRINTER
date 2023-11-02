@@ -53,4 +53,4 @@
 ### Register Number: 212222240049
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+###  Thus a prototype of the given part model is developed using 3D Printer.
