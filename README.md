@@ -46,9 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-![image](https://github.com/nkishore2210/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707090/31ef4511-92ad-41c4-99d2-60f35827d93e)
-
+![Screenshot 2023-11-18 200212](https://github.com/nkishore2210/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707090/ddfb50e5-f2da-4a11-a90d-c2c6480cfd91)
 ### Name: KISHORE N
 ### Register Number: 212222240049
 
