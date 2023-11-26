@@ -47,8 +47,8 @@
 
 ## Output:
 ![Screenshot 2023-11-18 200212](https://github.com/nkishore2210/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707090/ddfb50e5-f2da-4a11-a90d-c2c6480cfd91)
-### Name: MANO KARTHICK S
-### Register Number: 212222230077
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## RESULT:
 ###  Thus a prototype of the given part model is developed using 3D Printer.
